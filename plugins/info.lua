@@ -1,11 +1,11 @@
 --[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
-       تعديل       CH > @lTSHAKEl_CH
-من سورس الزعيم
+    _____    _        _    _    _____    Dev @KNSLTHMI
+   |_   _|__| |__    / \  | | _| ____|   Dev @NAHAR2_BOT
+     
+    
+    
+       تعديل       CH > @NENO_CH
+من سورسِ جْنَرَالُ
 --]]
 do
 local Arian = 67369633 --put your id here(BOT OWNER ID)

@@ -1,9 +1,12 @@
 --[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+-- تم التعديل و التعريب بواسطه @KNSLTHM
+
+--[[ 
+                                         Dev @KNSLTHM
+                                         Dev @NAHAR2_BOT
+         
+       
+              CH > @NENO_CH
 --]]
 do
 local function get_msgs_user_chat(user_id, chat_id)
@@ -152,4 +155,4 @@ return {
   run = run
 }
 end
--- arabic : @mohammedzedan
+-- arabic @KNSLTHM

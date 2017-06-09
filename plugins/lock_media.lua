@@ -27,5 +27,5 @@ return {
 "%[(gif)%]",
 "%[(sticker)%]",
   },
-  run = tshake
+  run = general
 }

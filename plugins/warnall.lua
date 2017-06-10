@@ -1,9 +1,11 @@
+--[[ -- تم التعديل و التعريب بواسطه @KNSLTHM
+
 --[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+                                         Dev @KNSLTHM
+                                         Dev @NAHAR2_BOT
+         
+       
+              CH > @NENO_CH
 --]]
 local function pre_process(msg) 
 local hka1 = 'hsaif:'..msg.to.id      --@h_k_a
@@ -248,12 +250,14 @@ return {
     pre_process = pre_process
 }
 
---  تم الكتابه بواسطه @h_k_a
---  لا تغيير الحقوق .. الملف خاص قناه تشاكي  
+--  
+--   
+--[[ -- تم التعديل و التعريب بواسطه @KNSLTHM
+
 --[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+                                         Dev @KNSLTHM
+                                         Dev @NAHAR2_BOT
+         
+       
+              CH > @NENO_CH
 --]]
